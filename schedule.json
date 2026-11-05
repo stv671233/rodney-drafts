@@ -54,7 +54,7 @@
    "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
    "thumb": "thumbs/01-meet-rodney.jpg",
    "instagram": "Hi, I'm Rodney! Drip, drip, DROP! 💧\nI'm a little raindrop on a big adventure. I travel the world with the water cycle, visiting famous places, meeting animals and learning as I go.\nMade for little explorers aged 2–6: stories, songs, games and printables.\nFollow along for the journey! Link in bio 🌍\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
-   "facebook": "Hi, I'm Rodney! Drip, drip, DROP! 💧\nI'm a little raindrop on a big adventure. I travel the world with the water cycle, visiting famous places, meeting animals and learning as I go.\nMade for little explorers aged 2–6: stories, songs, games and printables.\nFollow along for the journey! https://links.rodneytheraindrop.com 🌍"
+   "facebook": "Hi, I'm Rodney! Drip, drip, DROP! 💧\nI'm a little raindrop on a big adventure. I travel the world with the water cycle, visiting famous places, meeting animals and learning as I go.\nMade for little explorers aged 2–6: stories, songs, games and printables.\nFollow along for the journey! https://links.rodneytheraindrop.com/?src=facebook 🌍"
   },
   {
    "id": "seed-tt-1-meet-rodney",
@@ -141,7 +141,7 @@
    "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
    "thumb": "thumbs/reel-A-meet-rodney.jpg",
    "instagram": "Meet Rodney the Raindrop! 💧 Drip, drip, DROP!\nGames, sticker books, Rodney TV, storybooks, colouring, printables and bedtime... all in one little raindrop's world 🌍\nWill you join Rodney on his adventures? Link in bio 👋\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
-   "facebook": "Meet Rodney the Raindrop! 💧 Drip, drip, DROP!\nGames, sticker books, Rodney TV, storybooks, colouring, printables and bedtime... all in one little raindrop's world 🌍\nWill you join Rodney on his adventures? https://links.rodneytheraindrop.com 👋"
+   "facebook": "Meet Rodney the Raindrop! 💧 Drip, drip, DROP!\nGames, sticker books, Rodney TV, storybooks, colouring, printables and bedtime... all in one little raindrop's world 🌍\nWill you join Rodney on his adventures? https://links.rodneytheraindrop.com/?src=facebook 👋"
   },
   {
    "id": "pin-b1-06",
@@ -582,6 +582,38 @@
     "tags": "rodney the raindrop, meet rodney, water cycle for kids, learning for toddlers, educational cartoon, preschool, ages 2 to 6, kids learning video, kids songs, around the world for kids, toddler learning, cartoon for kids",
     "playlist": "The Adventures of Rodney The Raindrop!",
     "thumbnail": "RTV_000_2026-11-05_Meet-Rodney_thumb.jpg (Rodney Shop → Videos → Thumbnails)"
+   }
+  },
+  {
+   "id": "setup-bio-links-v7",
+   "date": "2026-11-05",
+   "time": "11:40",
+   "kind": "One-off setup",
+   "networks": [
+    "Instagram",
+    "TikTok",
+    "YouTube",
+    "Pinterest",
+    "Facebook"
+   ],
+   "title": "Change each bio link (after deploying links-worker v7)",
+   "file": "—",
+   "folder": "No file: this is a settings change on each network",
+   "note": "Lets the admin page show which network each family came from. Instagram: Edit profile → Links. TikTok: Edit profile → Website. YouTube Studio: Customisation → Profile → Links. Pinterest: Settings → Edit profile → Website. Facebook Page: Edit details → Website (if it has one). Paste that network's link below, then tick Scheduled.",
+   "instagram": "https://links.rodneytheraindrop.com/?src=instagram",
+   "tiktok": "https://links.rodneytheraindrop.com/?src=tiktok",
+   "facebook": "https://links.rodneytheraindrop.com/?src=facebook",
+   "pinterest": {
+    "title": "(bio link, not a pin)",
+    "description": "Settings → Edit profile → Website",
+    "link": "https://links.rodneytheraindrop.com/?src=pinterest",
+    "board": "—"
+   },
+   "youtube": {
+    "title": "(bio link, not a video)",
+    "description": "YouTube Studio → Customisation → Profile → Links",
+    "tags": "—",
+    "playlist": "—"
    }
   }
  ]
