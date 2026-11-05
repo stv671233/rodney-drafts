@@ -615,6 +615,20 @@
     "tags": "—",
     "playlist": "—"
    }
+  },
+  {
+   "id": "task-tiktok-website-1000",
+   "date": "2026-12-01",
+   "time": "09:00",
+   "kind": "Future task",
+   "networks": [
+    "TikTok"
+   ],
+   "title": "TikTok: add the clickable website link once you reach 1,000 followers",
+   "file": "—",
+   "folder": "No file: a settings change in the TikTok app",
+   "note": "Check on this date, and again each month until TikTok has 1,000 followers. TikTok app → Profile → Edit profile → Website (it appears at 1,000 followers; no business documents needed). Paste the link below, then remove the plain-text address from your bio and tick Scheduled.",
+   "tiktok": "https://links.rodneytheraindrop.com/?src=tiktok"
   }
  ]
 }
