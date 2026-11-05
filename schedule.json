@@ -591,30 +591,36 @@
    "kind": "One-off setup",
    "networks": [
     "Instagram",
-    "TikTok",
     "YouTube",
     "Pinterest",
     "Facebook"
    ],
-   "title": "Change each bio link (after deploying links-worker v7)",
+   "title": "Change your bio links (after deploying links-worker v7)",
    "file": "—",
    "folder": "No file: this is a settings change on each network",
-   "note": "Lets the admin page show which network each family came from. Instagram: Edit profile → Links. TikTok: Edit profile → Website. YouTube Studio: Customisation → Profile → Links. Pinterest: Settings → Edit profile → Website. Facebook Page: Edit details → Website (if it has one). Paste that network's link below, then tick Scheduled.",
-   "instagram": "https://links.rodneytheraindrop.com/?src=instagram",
-   "tiktok": "https://links.rodneytheraindrop.com/?src=tiktok",
-   "facebook": "https://links.rodneytheraindrop.com/?src=facebook",
-   "pinterest": {
-    "title": "(bio link, not a pin)",
-    "description": "Settings → Edit profile → Website",
-    "link": "https://links.rodneytheraindrop.com/?src=pinterest",
-    "board": "—"
-   },
-   "youtube": {
-    "title": "(bio link, not a video)",
-    "description": "YouTube Studio → Customisation → Profile → Links",
-    "tags": "—",
-    "playlist": "—"
-   }
+   "note": "So the admin page shows which network each family came from. For each row: open that network's profile settings, replace the website with the link shown, and save. TikTok has its own task on 1 Dec (it needs 1,000 followers first).",
+   "fields": [
+    {
+     "label": "📸 Instagram: Edit profile → Links → replace the website with",
+     "value": "https://links.rodneytheraindrop.com/?src=instagram"
+    },
+    {
+     "label": "▶️ YouTube Studio: Customisation → Profile → Links → replace the website with",
+     "value": "https://links.rodneytheraindrop.com/?src=youtube"
+    },
+    {
+     "label": "📌 Pinterest: Settings → Edit profile → Website → replace with",
+     "value": "https://links.rodneytheraindrop.com/?src=pinterest"
+    },
+    {
+     "label": "👍 Facebook: About → Links → pencil → first link (the game)",
+     "value": "https://rodneytheraindrop.com/?utm_source=facebook"
+    },
+    {
+     "label": "👍 Facebook: About → Links → pencil → second link (Books, Printables & Free Games)",
+     "value": "https://links.rodneytheraindrop.com/?src=facebook"
+    }
+   ]
   },
   {
    "id": "task-tiktok-website-1000",
@@ -628,7 +634,12 @@
    "file": "—",
    "folder": "No file: a settings change in the TikTok app",
    "note": "Check on this date, and again each month until TikTok has 1,000 followers. TikTok app → Profile → Edit profile → Website (it appears at 1,000 followers; no business documents needed). Paste the link below, then remove the plain-text address from your bio and tick Scheduled.",
-   "tiktok": "https://links.rodneytheraindrop.com/?src=tiktok"
+   "fields": [
+    {
+     "label": "🎵 TikTok app: Profile → Edit profile → Website → paste",
+     "value": "https://links.rodneytheraindrop.com/?src=tiktok"
+    }
+   ]
   }
  ]
 }
