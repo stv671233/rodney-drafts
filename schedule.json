@@ -592,13 +592,12 @@
    "networks": [
     "Instagram",
     "YouTube",
-    "Pinterest",
     "Facebook"
    ],
    "title": "Change your bio links (after deploying links-worker v7)",
    "file": "—",
    "folder": "No file: this is a settings change on each network",
-   "note": "So the admin page shows which network each family came from. For each row: open that network's profile settings, replace the website with the link shown, and save. TikTok has its own task on 1 Dec (it needs 1,000 followers first).",
+   "note": "So the admin page shows which network each family came from. For each row: open that network's profile settings, replace the website with the link shown, and save. TikTok has its own task on 1 Dec (it needs 1,000 followers first). Pinterest: nothing to do; the claimed website is locked to rodneytheraindrop.com and Pinterest visits are tracked automatically.",
    "fields": [
     {
      "label": "📸 Instagram: Edit profile → Links → replace the website with",
@@ -607,10 +606,6 @@
     {
      "label": "▶️ YouTube Studio: Customisation → Profile → Links → replace the website with",
      "value": "https://links.rodneytheraindrop.com/?src=youtube"
-    },
-    {
-     "label": "📌 Pinterest: Settings → Edit profile → Website → replace with",
-     "value": "https://links.rodneytheraindrop.com/?src=pinterest"
     },
     {
      "label": "👍 Facebook: About → Links → pencil → first link (the game)",
