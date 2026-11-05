@@ -1,0 +1,567 @@
+{
+ "updated": "2026-11-05",
+ "note": "Seed posts before the reveal: 12 Instagram + Facebook, 6 TikTok, 15 Pinterest pins.",
+ "posts": [
+  {
+   "id": "pin-b1-01",
+   "date": "2026-11-05",
+   "time": "12:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "Water Cycle Activity Pack for Kids",
+   "file": "01-water-cycle-activity-pack.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-01-water-cycle-activity-pack.jpg",
+   "pinterest": {
+    "title": "Water Cycle Activity Pack for Kids | Printable Preschool Worksheets",
+    "description": "Teach toddlers and preschoolers the water cycle with Rodney the Raindrop. 18 printable pages: water cycle poster, label-it worksheet, counting, tracing, dot-to-dot and colouring pages. Instant download PDF, ages 2–6. Great for homeschool and rainy days.",
+    "link": "https://www.etsy.com/shop/RodneyTheRaindrop",
+    "board": "Water Cycle for Kids"
+   }
+  },
+  {
+   "id": "pin-b1-02",
+   "date": "2026-11-05",
+   "time": "16:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "How to Teach the Water Cycle to Preschoolers (Printable Poster)",
+   "file": "02-teach-water-cycle.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-02-teach-water-cycle.jpg",
+   "pinterest": {
+    "title": "How to Teach the Water Cycle to Preschoolers (Printable Poster)",
+    "description": "A bright water cycle poster for kids plus a \"label the water cycle\" worksheet: evaporation, condensation, precipitation and more, explained simply for ages 2–6. Printable science activity for preschool, kindergarten and homeschool.",
+    "link": "https://www.etsy.com/shop/RodneyTheRaindrop",
+    "board": "Water Cycle for Kids"
+   }
+  },
+  {
+   "id": "seed-01-meet-rodney",
+   "date": "2026-11-05",
+   "time": "19:30",
+   "kind": "Image",
+   "networks": [
+    "Instagram",
+    "Facebook"
+   ],
+   "title": "Meet Rodney",
+   "file": "01-meet-rodney.jpg",
+   "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
+   "thumb": "thumbs/01-meet-rodney.jpg",
+   "instagram": "Hi, I'm Rodney! Drip, drip, DROP! 💧\nI'm a little raindrop on a big adventure. I travel the world with the water cycle, visiting famous places, meeting animals and learning as I go.\nMade for little explorers aged 2–6: stories, songs, games and printables.\nFollow along for the journey! Link in bio 🌍\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
+   "facebook": "Hi, I'm Rodney! Drip, drip, DROP! 💧\nI'm a little raindrop on a big adventure. I travel the world with the water cycle, visiting famous places, meeting animals and learning as I go.\nMade for little explorers aged 2–6: stories, songs, games and printables.\nFollow along for the journey! https://links.rodneytheraindrop.com 🌍"
+  },
+  {
+   "id": "seed-tt-1-meet-rodney",
+   "date": "2026-11-05",
+   "time": "19:30",
+   "kind": "Video",
+   "networks": [
+    "TikTok"
+   ],
+   "title": "Meet Rodney",
+   "file": "tt-1-meet-rodney.mp4",
+   "folder": "Rodney Shop → Social → Seed Posts - TikTok",
+   "thumb": "thumbs/tt-1-meet-rodney.jpg",
+   "tiktok": "On a computer: pinterest.com → click your profile picture (top-right) → **Settings**."
+  },
+  {
+   "id": "pin-b1-03",
+   "date": "2026-11-05",
+   "time": "20:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "Cute Colouring Pages for Toddlers",
+   "file": "03-colouring-pages.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-03-colouring-pages.jpg",
+   "pinterest": {
+    "title": "Cute Colouring Pages for Toddlers | Printable Rodney Colouring Sheets",
+    "description": "Simple, bold colouring pages for toddlers and preschoolers: beach day, garden, rainy day, rainbows and more with Rodney the Raindrop. Printable PDF, perfect for quiet time, travel and rainy-day activities.",
+    "link": "https://www.etsy.com/shop/RodneyTheRaindrop",
+    "board": "Colouring Pages for Kids"
+   }
+  },
+  {
+   "id": "pin-b1-04",
+   "date": "2026-11-06",
+   "time": "12:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "Preschool Printable Worksheets",
+   "file": "04-preschool-worksheets.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-04-preschool-worksheets.jpg",
+   "pinterest": {
+    "title": "Preschool Printable Worksheets | Counting, Letter Tracing & Dot-to-Dot",
+    "description": "Easy preschool worksheets for ages 2–6: count the raindrops, trace \"R is for Raindrop\" and join the dots to find Rodney. Printable PDF for early maths, handwriting and fine-motor practice at home or nursery.",
+    "link": "https://www.etsy.com/shop/RodneyTheRaindrop",
+    "board": "Water Cycle for Kids"
+   }
+  },
+  {
+   "id": "pin-b1-05",
+   "date": "2026-11-06",
+   "time": "16:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "United Kingdom Activity Pack for Kids",
+   "file": "05-uk-pack.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-05-uk-pack.jpg",
+   "pinterest": {
+    "title": "United Kingdom Activity Pack for Kids | Printable Geography Colouring",
+    "description": "Learn about the United Kingdom with Rodney the Raindrop: Big Ben colouring page, flag to colour, water cycle activities and more. Printable around-the-world activity pack for preschool and homeschool, ages 2–6.",
+    "link": "https://www.etsy.com/shop/RodneyTheRaindrop",
+    "board": "Geography for Kids"
+   }
+  },
+  {
+   "id": "seed-reel-A-meet-rodney",
+   "date": "2026-11-06",
+   "time": "19:30",
+   "kind": "Reel",
+   "networks": [
+    "Instagram",
+    "Facebook"
+   ],
+   "title": "Meet Rodney (welcome video)",
+   "file": "reel-A-meet-rodney.mp4",
+   "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
+   "thumb": "thumbs/reel-A-meet-rodney.jpg",
+   "instagram": "Meet Rodney the Raindrop! 💧 Drip, drip, DROP!\nGames, sticker books, Rodney TV, storybooks, colouring, printables and bedtime... all in one little raindrop's world 🌍\nWill you join Rodney on his adventures? Link in bio 👋\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
+   "facebook": "Meet Rodney the Raindrop! 💧 Drip, drip, DROP!\nGames, sticker books, Rodney TV, storybooks, colouring, printables and bedtime... all in one little raindrop's world 🌍\nWill you join Rodney on his adventures? https://links.rodneytheraindrop.com 👋"
+  },
+  {
+   "id": "pin-b1-06",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "USA Activity Pack for Kids",
+   "file": "06-usa-pack.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-06-usa-pack.jpg",
+   "pinterest": {
+    "title": "USA Activity Pack for Kids | Statue of Liberty Colouring & Activities",
+    "description": "Explore the USA with Rodney the Raindrop: Statue of Liberty colouring page, flag to colour, water cycle worksheets, counting and tracing. Printable geography pack for preschool and homeschool, ages 2–6.",
+    "link": "https://www.etsy.com/shop/RodneyTheRaindrop",
+    "board": "Geography for Kids"
+   }
+  },
+  {
+   "id": "pin-b1-07",
+   "date": "2026-11-07",
+   "time": "12:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "Japan Activity Pack for Kids",
+   "file": "07-japan-pack.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-07-japan-pack.jpg",
+   "pinterest": {
+    "title": "Japan Activity Pack for Kids | Mount Fuji Colouring & Worksheets",
+    "description": "Travel to Japan with Rodney the Raindrop: Mount Fuji colouring page, Japanese flag to colour, water cycle activities and preschool worksheets. Printable around-the-world pack, ages 2–6.",
+    "link": "https://www.etsy.com/shop/RodneyTheRaindrop",
+    "board": "Geography for Kids"
+   }
+  },
+  {
+   "id": "pin-b1-08",
+   "date": "2026-11-07",
+   "time": "16:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "Australia Activity Pack for Kids",
+   "file": "08-australia-pack.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-08-australia-pack.jpg",
+   "pinterest": {
+    "title": "Australia Activity Pack for Kids | Sydney Opera House Colouring",
+    "description": "Visit Australia with Rodney the Raindrop: Sydney Opera House colouring page, flag to colour, water cycle worksheets and fun preschool activities. Printable geography pack for kids aged 2–6.",
+    "link": "https://www.etsy.com/shop/RodneyTheRaindrop",
+    "board": "Geography for Kids"
+   }
+  },
+  {
+   "id": "seed-02-water-cycle",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "kind": "Image",
+   "networks": [
+    "Instagram",
+    "Facebook"
+   ],
+   "title": "Where does rain come from?",
+   "file": "02-water-cycle.jpg",
+   "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
+   "thumb": "thumbs/02-water-cycle.jpg",
+   "instagram": "\"Where does rain come from?\" 🌧️\nRodney's answer, in 4 easy steps:\n1. The sun warms the water\n2. It rises as vapour\n3. Clouds form\n4. Rain falls back down... and the journey starts again!\nSave this for the next rainy-day question ⭐\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
+   "facebook": "\"Where does rain come from?\" 🌧️\nRodney's answer, in 4 easy steps:\n1. The sun warms the water\n2. It rises as vapour\n3. Clouds form\n4. Rain falls back down... and the journey starts again!\nSave this for the next rainy-day question ⭐"
+  },
+  {
+   "id": "seed-tt-2-water-cycle",
+   "date": "2026-11-07",
+   "time": "19:30",
+   "kind": "Video",
+   "networks": [
+    "TikTok"
+   ],
+   "title": "Why does it rain?",
+   "file": "tt-2-water-cycle.mp4",
+   "folder": "Rodney Shop → Social → Seed Posts - TikTok",
+   "thumb": "thumbs/tt-2-water-cycle.jpg",
+   "tiktok": "Left menu: **Claimed accounts**. (Only appears on desktop web, on a business account.)"
+  },
+  {
+   "id": "pin-b1-09",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "Bedtime Routine Chart for Toddlers",
+   "file": "09-bedtime-routine-kit.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-09-bedtime-routine-kit.jpg",
+   "pinterest": {
+    "title": "Bedtime Routine Chart for Toddlers | Printable Visual Routine & Stickers",
+    "description": "A picture bedtime routine chart toddlers can follow without reading: bath, pyjamas, teeth, story, lights off. Includes weekly charts, 36 step stickers, reward stickers and a Bedtime Superstar certificate. Printable PDF for ages 2–6.",
+    "link": "https://www.etsy.com/shop/RodneyTheRaindrop",
+    "board": "Bedtime Routine for Toddlers"
+   }
+  },
+  {
+   "id": "pin-b1-10",
+   "date": "2026-11-08",
+   "time": "12:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "Calm Bedtime Routine Kit + Sleepy Story for Toddlers",
+   "file": "10-bedtime-story.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-10-bedtime-story.jpg",
+   "pinterest": {
+    "title": "Calm Bedtime Routine Kit + Sleepy Story for Toddlers",
+    "description": "Make bedtime calm and happy: a visual routine chart, reward stickers and \"Goodnight, Rodney\", a gentle sleepy story to read together. Printable bedtime kit for toddlers and preschoolers.",
+    "link": "https://www.etsy.com/shop/RodneyTheRaindrop",
+    "board": "Bedtime Routine for Toddlers"
+   }
+  },
+  {
+   "id": "pin-b1-11",
+   "date": "2026-11-08",
+   "time": "16:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "Kids World Passport Printable",
+   "file": "11-world-passport.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-11-world-passport.jpg",
+   "pinterest": {
+    "title": "Kids World Passport Printable | Collect All 194 Countries",
+    "description": "A printable passport for little explorers: a sticker and stamp space for every country in the world, plus country stickers and a World Explorer certificate. Fun geography for kids, homeschool and \"one country a week\" challenges.",
+    "link": "https://www.etsy.com/shop/RodneyTheRaindrop",
+    "board": "Geography for Kids"
+   }
+  },
+  {
+   "id": "seed-04-feelings",
+   "date": "2026-11-08",
+   "time": "19:30",
+   "kind": "Image",
+   "networks": [
+    "Instagram",
+    "Facebook"
+   ],
+   "title": "How are you feeling?",
+   "file": "04-feelings.jpg",
+   "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
+   "thumb": "thumbs/04-feelings.jpg",
+   "instagram": "How are you feeling today? 💙\nAsk your little one to point to the Rodney that's them. Naming feelings is a big skill for small people, and it's easier with a friendly face.\nTell us in the comments: which Rodney are you today? 😊\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
+   "facebook": "How are you feeling today? 💙\nAsk your little one to point to the Rodney that's them. Naming feelings is a big skill for small people, and it's easier with a friendly face.\nTell us in the comments: which Rodney are you today? 😊"
+  },
+  {
+   "id": "pin-b1-12",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "Animals Around the World Colouring Book for Kids",
+   "file": "12-colouring-book-1.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-12-colouring-book-1.jpg",
+   "pinterest": {
+    "title": "Animals Around the World Colouring Book for Kids | Africa, Asia & Australia",
+    "description": "32 animals from Africa, Asia and Australia to colour with Rodney the Raindrop: pandas, elephants, kangaroos, penguins and more. Single-sided A4 pages so markers don't bleed through. Ages 2–6.",
+    "link": "https://www.amazon.com/dp/B0HQ12NYQ4",
+    "board": "Colouring Pages for Kids"
+   }
+  },
+  {
+   "id": "pin-b1-13",
+   "date": "2026-11-09",
+   "time": "12:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "Animals Around the World Colouring Book",
+   "file": "13-colouring-book-2.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-13-colouring-book-2.jpg",
+   "pinterest": {
+    "title": "Animals Around the World Colouring Book | The Americas & the Far South",
+    "description": "32 animals from North and South America and the far south to colour: bears, jaguars, toucans, penguins and more. Big single-sided A4 colouring pages for toddlers and preschoolers, with Rodney the Raindrop.",
+    "link": "https://www.amazon.com/s?k=Rodney+the+Raindrop+colouring+book",
+    "board": "Colouring Pages for Kids"
+   }
+  },
+  {
+   "id": "pin-b1-14",
+   "date": "2026-11-09",
+   "time": "16:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "Rodney Goes to Table Mountain",
+   "file": "14-storybook-table-mountain.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-14-storybook-table-mountain.jpg",
+   "pinterest": {
+    "title": "Rodney Goes to Table Mountain | Water Cycle Picture Book for Kids",
+    "description": "Follow Rodney the Raindrop to Table Mountain in South Africa and learn the water cycle along the way. A bright picture book for ages 2–6 with puzzles and activities at the back. Paperback and Kindle.",
+    "link": "https://www.amazon.com/dp/B0HNG882C6",
+    "board": "Rodney the Raindrop Books"
+   }
+  },
+  {
+   "id": "seed-05-book-1",
+   "date": "2026-11-09",
+   "time": "19:30",
+   "kind": "Image",
+   "networks": [
+    "Instagram",
+    "Facebook"
+   ],
+   "title": "Book 1 is here",
+   "file": "05-book-1.jpg",
+   "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
+   "thumb": "thumbs/05-book-1.jpg",
+   "instagram": "Book 1 is here! 📚🎉\n\"Rodney Goes to Table Mountain\": Rodney's first adventure takes him to South Africa, with animals to meet and a water cycle to follow. Paperback (with activity pages) and Kindle, for ages 2–8.\nBook 2, Robben Island, is on its way soon!\nFind it on Amazon: link in bio.\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
+   "facebook": "Book 1 is here! 📚🎉\n\"Rodney Goes to Table Mountain\": Rodney's first adventure takes him to South Africa, with animals to meet and a water cycle to follow. Paperback (with activity pages) and Kindle, for ages 2–8.\nBook 2, Robben Island, is on its way soon!\nFind it on Amazon: https://www.amazon.co.uk/dp/B0HNG882C6."
+  },
+  {
+   "id": "seed-tt-3-table-mountain",
+   "date": "2026-11-09",
+   "time": "19:30",
+   "kind": "Video",
+   "networks": [
+    "TikTok"
+   ],
+   "title": "Table Mountain",
+   "file": "tt-3-table-mountain.mp4",
+   "folder": "Rodney Shop → Social → Seed Posts - TikTok",
+   "thumb": "thumbs/tt-3-table-mountain.jpg",
+   "tiktok": "Next to **Websites** click **Claim** → choose **Add HTML tag** → copy the line that starts with <meta name=\"p:domain_verify\"..."
+  },
+  {
+   "id": "pin-b1-15",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "kind": "Pin",
+   "networks": [
+    "Pinterest"
+   ],
+   "title": "Personalised Children's Book With Your Child's Name",
+   "file": "15-personalised-book.jpg",
+   "folder": "Rodney Shop → Pinterest → Batch 1",
+   "thumb": "thumbs/pin-15-personalised-book.jpg",
+   "pinterest": {
+    "title": "Personalised Children's Book With Your Child's Name | Rodney the Raindrop",
+    "description": "Your child becomes the hero of their own Rodney the Raindrop adventure around the world, with their name on the cover and a dedication from you. Instant PDF or a printed hardback delivered to your door. A lovely gift for ages 2–6.",
+    "link": "https://rodneytheraindrop.com/make-a-book.html",
+    "board": "Rodney the Raindrop Books"
+   }
+  },
+  {
+   "id": "seed-reel-B-water-cycle",
+   "date": "2026-11-10",
+   "time": "19:30",
+   "kind": "Reel",
+   "networks": [
+    "Instagram",
+    "Facebook"
+   ],
+   "title": "Water cycle explained",
+   "file": "reel-B-water-cycle.mp4",
+   "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
+   "thumb": "thumbs/reel-B-water-cycle.jpg",
+   "instagram": "Up, up, up! ☁️ Rodney explains the water cycle in under a minute. Perfect for little ones who ask \"why does it rain?\"\nMore on YouTube: link in bio.\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
+   "facebook": "Up, up, up! ☁️ Rodney explains the water cycle in under a minute. Perfect for little ones who ask \"why does it rain?\"\nMore on YouTube: https://www.youtube.com/@RodneytheRaindrop."
+  },
+  {
+   "id": "seed-03-around-the-world",
+   "date": "2026-11-11",
+   "time": "19:30",
+   "kind": "Image",
+   "networks": [
+    "Instagram",
+    "Facebook"
+   ],
+   "title": "Where should Rodney go next?",
+   "file": "03-around-the-world.jpg",
+   "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
+   "thumb": "thumbs/03-around-the-world.jpg",
+   "instagram": "Where should Rodney go next? 🌍✈️\nUK, South Africa, Japan, USA, France, Australia, Brazil, India, Egypt... Rodney has outfits for every country in the world!\nComment a country and we'll take Rodney there 👇\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
+   "facebook": "Where should Rodney go next? 🌍✈️\nUK, South Africa, Japan, USA, France, Australia, Brazil, India, Egypt... Rodney has outfits for every country in the world!\nComment a country and we'll take Rodney there 👇"
+  },
+  {
+   "id": "seed-tt-4-activity-packs",
+   "date": "2026-11-11",
+   "time": "19:30",
+   "kind": "Video",
+   "networks": [
+    "TikTok"
+   ],
+   "title": "Inside the activity packs",
+   "file": "tt-4-activity-packs.mp4",
+   "folder": "Rodney Shop → Social → Seed Posts - TikTok",
+   "thumb": "thumbs/tt-4-activity-packs.jpg",
+   "tiktok": "Send that line to Claude for the next game build. After it's live, come back and click **Verify**."
+  },
+  {
+   "id": "seed-06-activity-packs",
+   "date": "2026-11-12",
+   "time": "19:30",
+   "kind": "Image",
+   "networks": [
+    "Instagram",
+    "Facebook"
+   ],
+   "title": "Country activity packs",
+   "file": "06-activity-packs.jpg",
+   "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
+   "thumb": "thumbs/06-activity-packs.jpg",
+   "instagram": "Travel the world from the kitchen table 🗺️✂️\nRodney's printable country activity packs: landmark colouring, flags, counting, tracing, dot-to-dots and water cycle fun. Print at home, ages 2–6.\nPerfect for rainy days and holidays. On Etsy: link in bio.\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
+   "facebook": "Travel the world from the kitchen table 🗺️✂️\nRodney's printable country activity packs: landmark colouring, flags, counting, tracing, dot-to-dots and water cycle fun. Print at home, ages 2–6.\nPerfect for rainy days and holidays. On Etsy: https://www.etsy.com/shop/RodneyTheRaindrop."
+  },
+  {
+   "id": "seed-07-bedtime",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "kind": "Image",
+   "networks": [
+    "Instagram",
+    "Facebook"
+   ],
+   "title": "Bedtime routine",
+   "file": "07-bedtime.jpg",
+   "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
+   "thumb": "thumbs/07-bedtime.jpg",
+   "instagram": "Bedtime, the Rodney way 🌙\nBath, pyjamas, teeth, story, lights off, sleep. A picture routine little ones can follow by themselves, no reading needed.\nRodney's Bedtime Routine Kit: charts, step stickers, reward stickers and a sleepy story. On Etsy: link in bio.\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
+   "facebook": "Bedtime, the Rodney way 🌙\nBath, pyjamas, teeth, story, lights off, sleep. A picture routine little ones can follow by themselves, no reading needed.\nRodney's Bedtime Routine Kit: charts, step stickers, reward stickers and a sleepy story. On Etsy: https://www.etsy.com/shop/RodneyTheRaindrop."
+  },
+  {
+   "id": "seed-tt-5-london",
+   "date": "2026-11-13",
+   "time": "19:30",
+   "kind": "Video",
+   "networks": [
+    "TikTok"
+   ],
+   "title": "Rodney in London",
+   "file": "tt-5-london.mp4",
+   "folder": "Rodney Shop → Social → Seed Posts - TikTok",
+   "thumb": "thumbs/tt-5-london.jpg",
+   "tiktok": "On the same page, also claim **Etsy** and **YouTube** (click **Claim**, log in)."
+  },
+  {
+   "id": "seed-reel-C-etsy-packs",
+   "date": "2026-11-14",
+   "time": "19:30",
+   "kind": "Reel",
+   "networks": [
+    "Instagram",
+    "Facebook"
+   ],
+   "title": "Peek inside the packs",
+   "file": "reel-C-etsy-packs.mp4",
+   "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
+   "thumb": "thumbs/reel-C-etsy-packs.jpg",
+   "instagram": "Take a peek inside! 👀 Rodney's printable activity packs: one for every country Rodney visits. Which one would your little one pick?\nOn Etsy: link in bio.\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
+   "facebook": "Take a peek inside! 👀 Rodney's printable activity packs: one for every country Rodney visits. Which one would your little one pick?\nOn Etsy: https://www.etsy.com/shop/RodneyTheRaindrop."
+  },
+  {
+   "id": "seed-08-colouring-books",
+   "date": "2026-11-15",
+   "time": "19:30",
+   "kind": "Image",
+   "networks": [
+    "Instagram",
+    "Facebook"
+   ],
+   "title": "Colouring books",
+   "file": "08-colouring-books.jpg",
+   "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
+   "thumb": "thumbs/08-colouring-books.jpg",
+   "instagram": "New colouring books! 🖍️\nRodney's Animals Around the World: big A4 pages, one animal per page, single-sided so pens don't bleed through. Great for little hands and long journeys.\nOn Amazon: link in bio.\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
+   "facebook": "New colouring books! 🖍️\nRodney's Animals Around the World: big A4 pages, one animal per page, single-sided so pens don't bleed through. Great for little hands and long journeys.\nOn Amazon: https://www.amazon.co.uk/dp/B0HQ12NYQ4."
+  },
+  {
+   "id": "seed-tt-6-goodnight",
+   "date": "2026-11-15",
+   "time": "19:30",
+   "kind": "Video",
+   "networks": [
+    "TikTok"
+   ],
+   "title": "Goodnight, little star",
+   "file": "tt-6-goodnight.mp4",
+   "folder": "Rodney Shop → Social → Seed Posts - TikTok",
+   "thumb": "thumbs/tt-6-goodnight.jpg",
+   "tiktok": "Click the **Instagram** tab in the editor → add the hashtags at the end. For a video, set the post type to **Reel**."
+  },
+  {
+   "id": "seed-09-christmas",
+   "date": "2026-11-16",
+   "time": "19:30",
+   "kind": "Image",
+   "networks": [
+    "Instagram",
+    "Facebook"
+   ],
+   "title": "Getting ready for Christmas",
+   "file": "09-christmas.jpg",
+   "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
+   "thumb": "thumbs/09-christmas.jpg",
+   "instagram": "Rodney's getting ready for Christmas! 🎄🎅\nAre your little ones excited yet? Tell us the date your tree goes up 👇\n(Psst... Rodney's got something festive coming soon 🎁)\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
+   "facebook": "Rodney's getting ready for Christmas! 🎄🎅\nAre your little ones excited yet? Tell us the date your tree goes up 👇\n(Psst... Rodney's got something festive coming soon 🎁)"
+  }
+ ]
+}
