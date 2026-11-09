@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-09",
- "note": "Posting moved off Metricool: schedule each post on its own platform (Meta Business Suite, TikTok Studio, Pinterest, YouTube Studio). Sunday 8 Nov's missed posts are moved to today and Tuesday.",
+ "note": "Posting moved off Metricool: schedule each post on its own platform (Meta Business Suite, TikTok Studio, YouTube Studio). Pinterest is paused while the account appeal is reviewed.",
  "posts": [
   {
    "id": "pin-b1-01",
@@ -250,46 +250,6 @@
    }
   },
   {
-   "id": "pin-b1-10",
-   "date": "2026-11-10",
-   "time": "12:00",
-   "kind": "Pin",
-   "networks": [
-    "Pinterest"
-   ],
-   "title": "Calm Bedtime Routine Kit + Sleepy Story for Toddlers",
-   "file": "10-bedtime-story.jpg",
-   "folder": "Rodney Shop → Pinterest → Batch 1",
-   "thumb": "thumbs/pin-10-bedtime-story.jpg",
-   "pinterest": {
-    "title": "Calm Bedtime Routine Kit + Sleepy Story for Toddlers",
-    "description": "Make bedtime calm and happy: a visual routine chart, reward stickers and \"Goodnight, Rodney\", a gentle sleepy story to read together. Printable bedtime kit for toddlers and preschoolers.",
-    "link": "https://www.etsy.com/listing/4609572228",
-    "board": "Bedtime Routine for Toddlers"
-   },
-   "note": "Moved from Sun 8 Nov (missed when Metricool stopped)."
-  },
-  {
-   "id": "pin-b1-11",
-   "date": "2026-11-10",
-   "time": "16:00",
-   "kind": "Pin",
-   "networks": [
-    "Pinterest"
-   ],
-   "title": "Kids World Passport Printable",
-   "file": "11-world-passport.jpg",
-   "folder": "Rodney Shop → Pinterest → Batch 1",
-   "thumb": "thumbs/pin-11-world-passport.jpg",
-   "pinterest": {
-    "title": "Kids World Passport Printable | Collect All 194 Countries",
-    "description": "A printable passport for little explorers: a sticker and stamp space for every country in the world, plus country stickers and a World Explorer certificate. Fun geography for kids, homeschool and \"one country a week\" challenges.",
-    "link": "https://www.etsy.com/listing/4609558173",
-    "board": "Geography for Kids"
-   },
-   "note": "Moved from Sun 8 Nov (missed when Metricool stopped)."
-  },
-  {
    "id": "seed-04-feelings",
    "date": "2026-11-09",
    "time": "12:30",
@@ -305,64 +265,6 @@
    "instagram": "How are you feeling today? 💙\nAsk your little one to point to the Rodney that's them. Naming feelings is a big skill for small people, and it's easier with a friendly face.\nTell us in the comments: which Rodney are you today? 😊\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
    "facebook": "How are you feeling today? 💙\nAsk your little one to point to the Rodney that's them. Naming feelings is a big skill for small people, and it's easier with a friendly face.\nTell us in the comments: which Rodney are you today? 😊",
    "note": "Catch-up: missed on Sun 8 Nov, post today at lunchtime."
-  },
-  {
-   "id": "pin-b1-12",
-   "date": "2026-11-10",
-   "time": "20:00",
-   "kind": "Pin",
-   "networks": [
-    "Pinterest"
-   ],
-   "title": "Animals Around the World Colouring Book for Kids",
-   "file": "12-colouring-book-1.jpg",
-   "folder": "Rodney Shop → Pinterest → Batch 1",
-   "thumb": "thumbs/pin-12-colouring-book-1.jpg",
-   "pinterest": {
-    "title": "Animals Around the World Colouring Book for Kids | Africa, Asia & Australia",
-    "description": "32 animals from Africa, Asia and Australia to colour with Rodney the Raindrop: pandas, elephants, kangaroos, penguins and more. Single-sided A4 pages so markers don't bleed through. Ages 2–6.",
-    "link": "https://www.amazon.com/dp/B0HQ12NYQ4",
-    "board": "Colouring Pages for Kids"
-   },
-   "note": "Moved from Sun 8 Nov (missed when Metricool stopped)."
-  },
-  {
-   "id": "pin-b1-13",
-   "date": "2026-11-09",
-   "time": "12:00",
-   "kind": "Pin",
-   "networks": [
-    "Pinterest"
-   ],
-   "title": "Animals Around the World Colouring Book",
-   "file": "13-colouring-book-2.jpg",
-   "folder": "Rodney Shop → Pinterest → Batch 1",
-   "thumb": "thumbs/pin-13-colouring-book-2.jpg",
-   "pinterest": {
-    "title": "Animals Around the World Colouring Book | The Americas & the Far South",
-    "description": "32 animals from North and South America and the far south to colour: bears, jaguars, toucans, penguins and more. Big single-sided A4 colouring pages for toddlers and preschoolers, with Rodney the Raindrop.",
-    "link": "https://www.amazon.com/s?k=Rodney+the+Raindrop+colouring+book",
-    "board": "Colouring Pages for Kids"
-   }
-  },
-  {
-   "id": "pin-b1-14",
-   "date": "2026-11-09",
-   "time": "16:00",
-   "kind": "Pin",
-   "networks": [
-    "Pinterest"
-   ],
-   "title": "Rodney Goes to Table Mountain",
-   "file": "14-storybook-table-mountain.jpg",
-   "folder": "Rodney Shop → Pinterest → Batch 1",
-   "thumb": "thumbs/pin-14-storybook-table-mountain.jpg",
-   "pinterest": {
-    "title": "Rodney Goes to Table Mountain | Water Cycle Picture Book for Kids",
-    "description": "Follow Rodney the Raindrop to Table Mountain in South Africa and learn the water cycle along the way. A bright picture book for ages 2–6 with puzzles and activities at the back. Paperback and Kindle.",
-    "link": "https://www.amazon.com/dp/B0HNG882C6",
-    "board": "Rodney the Raindrop Books"
-   }
   },
   {
    "id": "seed-05-book-1",
@@ -393,25 +295,6 @@
    "folder": "Rodney Shop → Social → Seed Posts - TikTok",
    "thumb": "thumbs/tt-3-table-mountain.jpg",
    "tiktok": "Rodney visits Table Mountain! 🏔️ #southafrica #kidsbooks #toddler #rodneytheraindrop"
-  },
-  {
-   "id": "pin-b1-15",
-   "date": "2026-11-09",
-   "time": "20:00",
-   "kind": "Pin",
-   "networks": [
-    "Pinterest"
-   ],
-   "title": "Personalised Children's Book With Your Child's Name",
-   "file": "15-personalised-book.jpg",
-   "folder": "Rodney Shop → Pinterest → Batch 1",
-   "thumb": "thumbs/pin-15-personalised-book.jpg",
-   "pinterest": {
-    "title": "Personalised Children's Book With Your Child's Name | Rodney the Raindrop",
-    "description": "Your child becomes the hero of their own Rodney the Raindrop adventure around the world, with their name on the cover and a dedication from you. Instant PDF or a printed hardback delivered to your door. A lovely gift for ages 2–6.",
-    "link": "https://rodneytheraindrop.com/make-a-book.html",
-    "board": "Rodney the Raindrop Books"
-   }
   },
   {
    "id": "seed-reel-B-water-cycle",
@@ -640,5 +523,127 @@
     }
    ]
   }
- ]
+ ],
+ "paused": {
+  "reason": "Pinterest profile deactivated on 9 Nov 2026; appeal submitted. These 6 pins come back with new dates if the appeal succeeds.",
+  "posts": [
+   {
+    "id": "pin-b1-10",
+    "date": "2026-11-10",
+    "time": "12:00",
+    "kind": "Pin",
+    "networks": [
+     "Pinterest"
+    ],
+    "title": "Calm Bedtime Routine Kit + Sleepy Story for Toddlers",
+    "file": "10-bedtime-story.jpg",
+    "folder": "Rodney Shop → Pinterest → Batch 1",
+    "thumb": "thumbs/pin-10-bedtime-story.jpg",
+    "pinterest": {
+     "title": "Calm Bedtime Routine Kit + Sleepy Story for Toddlers",
+     "description": "Make bedtime calm and happy: a visual routine chart, reward stickers and \"Goodnight, Rodney\", a gentle sleepy story to read together. Printable bedtime kit for toddlers and preschoolers.",
+     "link": "https://www.etsy.com/listing/4609572228",
+     "board": "Bedtime Routine for Toddlers"
+    },
+    "note": "Moved from Sun 8 Nov (missed when Metricool stopped)."
+   },
+   {
+    "id": "pin-b1-11",
+    "date": "2026-11-10",
+    "time": "16:00",
+    "kind": "Pin",
+    "networks": [
+     "Pinterest"
+    ],
+    "title": "Kids World Passport Printable",
+    "file": "11-world-passport.jpg",
+    "folder": "Rodney Shop → Pinterest → Batch 1",
+    "thumb": "thumbs/pin-11-world-passport.jpg",
+    "pinterest": {
+     "title": "Kids World Passport Printable | Collect All 194 Countries",
+     "description": "A printable passport for little explorers: a sticker and stamp space for every country in the world, plus country stickers and a World Explorer certificate. Fun geography for kids, homeschool and \"one country a week\" challenges.",
+     "link": "https://www.etsy.com/listing/4609558173",
+     "board": "Geography for Kids"
+    },
+    "note": "Moved from Sun 8 Nov (missed when Metricool stopped)."
+   },
+   {
+    "id": "pin-b1-12",
+    "date": "2026-11-10",
+    "time": "20:00",
+    "kind": "Pin",
+    "networks": [
+     "Pinterest"
+    ],
+    "title": "Animals Around the World Colouring Book for Kids",
+    "file": "12-colouring-book-1.jpg",
+    "folder": "Rodney Shop → Pinterest → Batch 1",
+    "thumb": "thumbs/pin-12-colouring-book-1.jpg",
+    "pinterest": {
+     "title": "Animals Around the World Colouring Book for Kids | Africa, Asia & Australia",
+     "description": "32 animals from Africa, Asia and Australia to colour with Rodney the Raindrop: pandas, elephants, kangaroos, penguins and more. Single-sided A4 pages so markers don't bleed through. Ages 2–6.",
+     "link": "https://www.amazon.com/dp/B0HQ12NYQ4",
+     "board": "Colouring Pages for Kids"
+    },
+    "note": "Moved from Sun 8 Nov (missed when Metricool stopped)."
+   },
+   {
+    "id": "pin-b1-13",
+    "date": "2026-11-09",
+    "time": "12:00",
+    "kind": "Pin",
+    "networks": [
+     "Pinterest"
+    ],
+    "title": "Animals Around the World Colouring Book",
+    "file": "13-colouring-book-2.jpg",
+    "folder": "Rodney Shop → Pinterest → Batch 1",
+    "thumb": "thumbs/pin-13-colouring-book-2.jpg",
+    "pinterest": {
+     "title": "Animals Around the World Colouring Book | The Americas & the Far South",
+     "description": "32 animals from North and South America and the far south to colour: bears, jaguars, toucans, penguins and more. Big single-sided A4 colouring pages for toddlers and preschoolers, with Rodney the Raindrop.",
+     "link": "https://www.amazon.com/s?k=Rodney+the+Raindrop+colouring+book",
+     "board": "Colouring Pages for Kids"
+    }
+   },
+   {
+    "id": "pin-b1-14",
+    "date": "2026-11-09",
+    "time": "16:00",
+    "kind": "Pin",
+    "networks": [
+     "Pinterest"
+    ],
+    "title": "Rodney Goes to Table Mountain",
+    "file": "14-storybook-table-mountain.jpg",
+    "folder": "Rodney Shop → Pinterest → Batch 1",
+    "thumb": "thumbs/pin-14-storybook-table-mountain.jpg",
+    "pinterest": {
+     "title": "Rodney Goes to Table Mountain | Water Cycle Picture Book for Kids",
+     "description": "Follow Rodney the Raindrop to Table Mountain in South Africa and learn the water cycle along the way. A bright picture book for ages 2–6 with puzzles and activities at the back. Paperback and Kindle.",
+     "link": "https://www.amazon.com/dp/B0HNG882C6",
+     "board": "Rodney the Raindrop Books"
+    }
+   },
+   {
+    "id": "pin-b1-15",
+    "date": "2026-11-09",
+    "time": "20:00",
+    "kind": "Pin",
+    "networks": [
+     "Pinterest"
+    ],
+    "title": "Personalised Children's Book With Your Child's Name",
+    "file": "15-personalised-book.jpg",
+    "folder": "Rodney Shop → Pinterest → Batch 1",
+    "thumb": "thumbs/pin-15-personalised-book.jpg",
+    "pinterest": {
+     "title": "Personalised Children's Book With Your Child's Name | Rodney the Raindrop",
+     "description": "Your child becomes the hero of their own Rodney the Raindrop adventure around the world, with their name on the cover and a dedication from you. Instant PDF or a printed hardback delivered to your door. A lovely gift for ages 2–6.",
+     "link": "https://rodneytheraindrop.com/make-a-book.html",
+     "board": "Rodney the Raindrop Books"
+    }
+   }
+  ]
+ }
 }
