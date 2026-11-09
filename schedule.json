@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05",
- "note": "Seed posts before the reveal: 12 Instagram + Facebook, 6 TikTok, 15 Pinterest pins.",
+ "updated": "2026-11-09",
+ "note": "Posting moved off Metricool: schedule each post on its own platform (Meta Business Suite, TikTok Studio, Pinterest, YouTube Studio). Sunday 8 Nov's missed posts are moved to today and Tuesday.",
  "posts": [
   {
    "id": "pin-b1-01",
@@ -251,7 +251,7 @@
   },
   {
    "id": "pin-b1-10",
-   "date": "2026-11-08",
+   "date": "2026-11-10",
    "time": "12:00",
    "kind": "Pin",
    "networks": [
@@ -266,11 +266,12 @@
     "description": "Make bedtime calm and happy: a visual routine chart, reward stickers and \"Goodnight, Rodney\", a gentle sleepy story to read together. Printable bedtime kit for toddlers and preschoolers.",
     "link": "https://www.etsy.com/listing/4609572228",
     "board": "Bedtime Routine for Toddlers"
-   }
+   },
+   "note": "Moved from Sun 8 Nov (missed when Metricool stopped)."
   },
   {
    "id": "pin-b1-11",
-   "date": "2026-11-08",
+   "date": "2026-11-10",
    "time": "16:00",
    "kind": "Pin",
    "networks": [
@@ -285,12 +286,13 @@
     "description": "A printable passport for little explorers: a sticker and stamp space for every country in the world, plus country stickers and a World Explorer certificate. Fun geography for kids, homeschool and \"one country a week\" challenges.",
     "link": "https://www.etsy.com/listing/4609558173",
     "board": "Geography for Kids"
-   }
+   },
+   "note": "Moved from Sun 8 Nov (missed when Metricool stopped)."
   },
   {
    "id": "seed-04-feelings",
-   "date": "2026-11-08",
-   "time": "19:30",
+   "date": "2026-11-09",
+   "time": "12:30",
    "kind": "Image",
    "networks": [
     "Instagram",
@@ -301,11 +303,12 @@
    "folder": "Rodney Shop → Social → Seed Posts - Instagram & Facebook",
    "thumb": "thumbs/04-feelings.jpg",
    "instagram": "How are you feeling today? 💙\nAsk your little one to point to the Rodney that's them. Naming feelings is a big skill for small people, and it's easier with a friendly face.\nTell us in the comments: which Rodney are you today? 😊\n\n#rodneytheraindrop #toddleractivities #preschoolactivities #learningthroughplay #earlyyears #kidsbooks #homeschooluk #ukmums",
-   "facebook": "How are you feeling today? 💙\nAsk your little one to point to the Rodney that's them. Naming feelings is a big skill for small people, and it's easier with a friendly face.\nTell us in the comments: which Rodney are you today? 😊"
+   "facebook": "How are you feeling today? 💙\nAsk your little one to point to the Rodney that's them. Naming feelings is a big skill for small people, and it's easier with a friendly face.\nTell us in the comments: which Rodney are you today? 😊",
+   "note": "Catch-up: missed on Sun 8 Nov, post today at lunchtime."
   },
   {
    "id": "pin-b1-12",
-   "date": "2026-11-08",
+   "date": "2026-11-10",
    "time": "20:00",
    "kind": "Pin",
    "networks": [
@@ -320,7 +323,8 @@
     "description": "32 animals from Africa, Asia and Australia to colour with Rodney the Raindrop: pandas, elephants, kangaroos, penguins and more. Single-sided A4 pages so markers don't bleed through. Ages 2–6.",
     "link": "https://www.amazon.com/dp/B0HQ12NYQ4",
     "board": "Colouring Pages for Kids"
-   }
+   },
+   "note": "Moved from Sun 8 Nov (missed when Metricool stopped)."
   },
   {
    "id": "pin-b1-13",
@@ -575,7 +579,7 @@
    "file": "RTV_000_2026-11-05_Meet-Rodney.mp4",
    "folder": "Rodney Shop → Videos → Raw Videos",
    "thumb": "thumbs/yt-000-meet-rodney.jpg",
-   "note": "Publish now: in Metricool choose Publish now instead of a date. Once it's live, set it as the channel trailer (Studio → Customisation → Home tab) and send Claude the link for Rodney TV.",
+   "note": "Publish now: in YouTube Studio choose Public instead of Schedule. Once it's live, set it as the channel trailer (Studio → Customisation → Home tab) and send Claude the link for Rodney TV.",
    "youtube": {
     "title": "Meet Rodney the Raindrop! 💧 Games, Songs, Stories & Adventures for Kids",
     "description": "Meet Rodney the Raindrop! 💧 Drip, drip, DROP!\n\nRodney is a little raindrop on a big adventure around the world. He rides the water cycle up into the clouds and rains down somewhere new, visiting famous places and meeting animals as he goes.\n\nCome and join him:\n🎮 Play Rodney's games: collect raindrops, win stickers and fill your sticker book\n📺 Watch Rodney TV: songs, stories and adventures\n📚 Read the storybooks and colouring books\n🖍️ Print the activity packs and fill your World Passport\n🌙 Get ready for bed with Rodney at sleepy time\n\nGentle, ad-free learning for ages 2–6. Play and watch more at rodneytheraindrop.com 💧\n\n#RodneyTheRaindrop #WaterCycleForKids #KidsLearning",
